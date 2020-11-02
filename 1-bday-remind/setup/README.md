@@ -1,3 +1,6 @@
-## Idea
+# A reminder app in REACT
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+## this app is an exercise to implement React useState()
+
+1. how many have birthdays
+2. how old they are
