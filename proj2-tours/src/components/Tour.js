@@ -1,7 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react'
 
 const Tour = () => {
-  return <h2>tour component</h2>;
-};
+  return (
+    <div>
+      
+    </div>
+  )
+}
 
-export default Tour;
+export default Tour
