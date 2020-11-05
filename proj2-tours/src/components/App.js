@@ -48,7 +48,7 @@ const App = () => {
       <main>
         <div className="title">
           <h3>No more tours to show</h3>
-          <button onClick={()=>fetchTours()}>Reload tours?</button>
+          <button className="btn" onClick={()=>fetchTours()}>Reload tours?</button>
         </div>
       </main>
     )
